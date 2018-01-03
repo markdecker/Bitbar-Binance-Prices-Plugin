@@ -1,5 +1,5 @@
 # BitBar-Bittrex-Prices-Plugin
-A [BitBar](https://github.com/matryer/bitbar) plugin that shows Bitcoin, Ethereum, Litecoin and Neo prices from Bittrex
+A [BitBar](https://github.com/matryer/bitbar) plugin that shows Ethereum, Cardano, NEO, and Tron prices from Binance
 
 ## Installation
 - Install [BitBar](https://getbitbar.com/)
